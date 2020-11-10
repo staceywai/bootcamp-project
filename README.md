@@ -17,13 +17,14 @@ When the world is faced with fear and panic, certain items will unexpectedly bec
 
 ### What trends were expected vs unexpected?
 * We expected grocery spending to spike in April, as it did, and we also expected alcohol sales to spike and stay high. Alcohol tends to stay constant during times of turmoil, and at home sales did especially well since people couldn't go out during quarantine.
+
 ![Alcohol Sales](/Images/Alcohol20vs19.png)
 * Unexpected trends we saw were the decline in sugary drinks and snacks compared to 2019. We theorize this was due to the health trends people jumped on at the start of quarantine.
 ![Soda/Juice/MineralWater Sales](/Images/Alcohol20vs19.png)
 * We also didn't expect to see recreational and other durable items rise in May & June, although it makes sense when you frame it with the release of the stimulus.
 ![Sporting Equipment & Gun Sales](/Images/SportsGunsAmmo20v19.png)
 * Meat sales took a dive below 2019 sales in June, which was a surprise. Upon researching, we found there were COVID outbreaks at multiple meat packing plants, which lead to less supply and restricted purchasing in June.
-![Beef & Veal Sales](/Images/BeafVeal20vs19.png.png)
+![Beef & Veal Sales](/Images/BeafVeal20vs19.png)
 
 ### Does spending change after a 'new normal' is established?
 * As quarantine continued, spending definitely changed. We saw a rise in home improvement related purchases, recreational purchases more related to home and outdoor activities, and productivity related items, like computers.
